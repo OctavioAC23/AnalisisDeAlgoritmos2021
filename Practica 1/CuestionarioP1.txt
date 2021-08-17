@@ -1,0 +1,23 @@
+1. ¿Qué compilador de lenguaje C usaste?
+Dev C++ 
+2. ¿Qué versión del compilador de lenguaje C usaste?
+TDM-GCC 4.9.2
+3. ¿Qué algoritmo usaste para ordenar los números?
+matrices una que genera los numeros usando Rand y otro que los ordena de menor a mayor
+
+4. ¿Qué tiempo tarda en ordenar 10,000 números? 
+18.45 segundos
+¿Y para 5,000 números?
+13.02 segundos
+
+5. ¿Cuánta memoria de trabajo usa tu programa? 
+129.43 Kb
+¿Siempre usa la misma cantidad sin importar el número de números?
+si
+
+6. Escribe dos funciones matemáticas asociadas a tu programa. Ambas funciones operan con el número de números a ordenar y al evaluarlas se espera obtener un valor aproximado para el tiempo que tardará la ejecución y el número de octetos de memoria que se usan. Llama a las funciones T y M
+•T(n) = 1000 int * 2 segundos
+•M(n) = 1000 int * 1 kb
+
+7. ¿Cuál es tu usuario de github?
+Octavio23
